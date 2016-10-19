@@ -1,3 +1,5 @@
-# projekt-pri-programiranju1
+# Najboljši šahisti v zadnjih letih
 
-to je naš _prvi_ projekt
+To je projekt pri premetu Programiranje 1. Pri projektu bom analiziral ratinge najboljših šahistov in spremembe le teh.
+
+Ljubljana, 19.10.2016
